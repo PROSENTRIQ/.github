@@ -3,6 +3,9 @@ contact_links:
   - name: Report a security vulnerability
     url: https://github.com/PROSENTRIQ/.github/blob/main/SECURITY.md
     about: Please report vulnerabilities privately, never in a public issue.
+  - name: Documentation
+    url: https://github.com/PROSENTRIQ/docs
+    about: Install guides, the API reference, integrations and plans.
   - name: Product support
     url: mailto:support@prosentriq.com
     about: Questions about your account, the console or a deployment.
